@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Currency App</string>
+    <string name="convert_your_currency">Convert your Currency</string>
+    <string name="your_result">Your result</string>
+    <string name="enter_amount">Enter amount</string>
+    <string name="rupees">Rupees</string>
+
+    <string-array name="currencies">
+        <item>KWD - Kuwaiti Dinar</item>
+        <item>BHD - Bahrain Dinar</item>
+        <item>OMR - Omani Riyal</item>
+        <item>JOD - Jordanian Dinar</item>
+        <item>GBP - Pound</item>
+        <item>EUR - Euro</item>
+        <item>USD - US Dollar</item>
+        <item>TRY - Turkish Lira</item>
+        <item>QAR - Qatari Rial</item>
+        <item>CAD - Canadian Dollar</item>
+        <item>AUD - Australian Dollar</item>
+        <item>SGD - Singapore Dollar</item>
+        <item>SAR - Saudi Riyal</item>
+        <item>NPR - Nepalese Rupee</item>
+    </string-array>
+</resources>
